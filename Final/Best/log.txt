@@ -1,0 +1,2 @@
+anujn@iladyu:~/Fall2023/ME_449/Capstone/Final$ python3 Final.py 
+Generating .csv file
